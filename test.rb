@@ -1,3 +1,4 @@
+puts 'Hiiiii'
 puts 'Input a starting year:'
 start_year = gets.chomp
 puts 'Input an ending year:'
